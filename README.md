@@ -1,4 +1,12 @@
-### Hi there 👋
+## André Igor 👨‍💻
+
+### Linguagens em aprendizado:
+- Python
+- Java
+- JavaScript/TypeScript
+- HTML
+- CSS
+- SQL
 
 <!--
 **igorms20/igorms20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
